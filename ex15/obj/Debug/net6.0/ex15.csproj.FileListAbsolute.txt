@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/example3fevral/ex15/bin/Debug/net6.0/ex15
+/Users/delyashchuriumova/example3fevral/ex15/bin/Debug/net6.0/ex15.deps.json
+/Users/delyashchuriumova/example3fevral/ex15/bin/Debug/net6.0/ex15.runtimeconfig.json
+/Users/delyashchuriumova/example3fevral/ex15/bin/Debug/net6.0/ex15.dll
+/Users/delyashchuriumova/example3fevral/ex15/bin/Debug/net6.0/ex15.pdb
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.AssemblyInfo.cs
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.dll
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/refint/ex15.dll
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.pdb
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ex15.genruntimeconfig.cache
+/Users/delyashchuriumova/example3fevral/ex15/obj/Debug/net6.0/ref/ex15.dll
